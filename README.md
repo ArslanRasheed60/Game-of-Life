@@ -4,6 +4,9 @@ This is a two players game which include some powerups and hurdles. Both players
 Hurdles are used to stop the other player. 
 The one who reach at the destination first will wins the game.
 
-# implemented on 
+# Implemented on 
 OOp (object oriented programming)
 C++
+
+# Setup
+Just download or clone it and run it.
